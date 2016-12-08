@@ -1,0 +1,12 @@
+body{
+    background-color: #eeeeee;
+  border-color: #dddddd;
+}
+.graph {
+    background: #FFFFFF; /* Цвет фона */
+   width: 50%; /* Ширина блока */
+    height: 300px;
+    float: left;
+    padding: 5px; /* Поля */
+    border: 2px solid #000; /* Параметры рамки */
+}
